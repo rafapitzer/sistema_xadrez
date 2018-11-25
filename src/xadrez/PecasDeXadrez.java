@@ -1,9 +1,9 @@
 package xadrez;
 
-import camada_tabuleiro.Pecas;
+import camada_tabuleiro.Peca;
 import camada_tabuleiro.Tabuleiro;
 
-public class PecasDeXadrez extends Pecas {
+public class PecasDeXadrez extends Peca {
 		
 	private Cores cores;
 
